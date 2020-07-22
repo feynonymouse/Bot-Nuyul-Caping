@@ -1,5 +1,5 @@
 <?php
-// FB : MANGGALA FEBRI VALENTINO
+// FB : Tayu Ash
 echo "Masukkan UserId/Uid : ";
 $uid 	= trim(fgets(STDIN));
 echo "Masukkan N ID : ";
